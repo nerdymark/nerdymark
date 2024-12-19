@@ -18,7 +18,8 @@
 
 ### I am an independent contributor at a large fruit company
 - 🤓 I’m currently working on my personal website :grin:
-- 🔐 2024 Goals: Get my CISSP
+- 🔐 2024 Goals: Get my CISSP ✅ DONE!
+- ❓ 2025 Goals: ITIL?
 - 📚 I’m currently enjoying Python, Flask, Docker, Kubernetes, and more
 - I'm actually a Windows guy at work, interesting story
 - 📫 How to reach me: [linkedin]
