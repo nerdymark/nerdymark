@@ -22,7 +22,7 @@
 - ❓ 2025 Goals: ITIL? Maybe next year! I kind of just did CTFs this year.
 - 📚 I’m currently enjoying Python, Flask, Docker, Kubernetes, and more
 - I'm actually a Windows guy at work, interesting story
-- 📫 How to reach me: [linkedin]
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/marklacore/)
 - 😄 Pronouns: he/him/his but I usually refer to myself as "we" 🤭
 - ⚡ Fun fact: I have a lot of guitars and am a huge metal fan
 - 🍺 Favorite kind of beer: IPA
