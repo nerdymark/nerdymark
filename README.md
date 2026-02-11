@@ -1,6 +1,6 @@
 # Hey, I'm Mark
 
-<img align="right" src="https://github.com/nerdymark/com_blog/raw/main/static/images/ajax-document-loader.gif?raw=true" width="200" />
+<img width=120px align="right" src="https://github.com/nerdymark/com_blog/raw/main/static/images/ajax-document-loader.gif?raw=true" width="200" />
 
 **Senior Software Engineer** | **CISSP** | San Jose, CA
 
