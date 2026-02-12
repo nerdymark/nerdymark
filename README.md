@@ -8,7 +8,6 @@ I build things with Python, break things in CTFs, and write about all of it at [
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklacore/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF.svg?&style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/nerdymark.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/nerdymark)
 
 ---
 
