@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/nerdymark/com_blog/raw/main/static/images/ajax-document-loader.gif" width="80" />
+<img src="https://nerdymark.com/static/images/ajax-document-loader.gif" width="80" />
 
 # Hey, I'm Mark
 
@@ -30,6 +30,19 @@ Currently writing about all of it at **[nerdymark.com](https://nerdymark.com)** 
 - **[magic-frame](https://github.com/nerdymark/magic-frame)** — 18×18 WS2812B NeoPixel LED matrix with CircuitPython demoscene animations
 - **[pokemon-roster-analyzer](https://nerdymark.com/pokemon-roster-analyzer)** — Pokémon Sleep team optimizer
 - **CTF research** — competing in cloud/infra security challenges, publishing writeups on the blog
+
+---
+
+### 🔒 A note on my private repos
+
+Most of what I build isn't on this page. A good number of my repositories are private, for two reasons:
+
+- **Personal** — home lab, hardware, and household projects that touch my own network, devices, and family. Not much use to anyone else, and not something I want indexed.
+- **Portfolio** — work I'm glad to walk through in a hiring or collaboration conversation, but that I keep off the public timeline by choice.
+
+**Asking for access is welcome.** If you're evaluating my work or have a specific reason to look, reach out on [LinkedIn](https://www.linkedin.com/in/marklacore/) or [Bluesky](https://bsky.app/profile/nerdymark.com) and I'm generally happy to share read access.
+
+**What I can't take is contributions.** No pull requests, patches, feature requests, or design input on any of my repositories, public or private. That isn't unfriendliness — my employment agreement and the professional credentials I hold make outside contribution a conflict I'd rather avoid outright than manage case by case. Everything in these repos is written by me, on my own time and my own equipment, and I intend to keep the provenance that clean.
 
 ---
 
@@ -73,8 +86,6 @@ DevOps          Terraform · nginx · systemd · Git · CI/CD
 
 ---
 
----
-
 ### ⏱️ Milestones
 
 | Year | Thing |
@@ -86,5 +97,5 @@ DevOps          Terraform · nginx · systemd · Git · CI/CD
 ---
 
 <div align="center">
-<sub>Updated May 2026 · <a href="https://nerdymark.com">nerdymark.com</a> · <a href="https://bsky.app/profile/nerdymark.com">@nerdymark</a></sub>
+<sub>Updated July 2026 · <a href="https://nerdymark.com">nerdymark.com</a> · <a href="https://bsky.app/profile/nerdymark.com">@nerdymark</a></sub>
 </div>
