@@ -78,7 +78,7 @@ Every challenge in the [Championship](https://cloudsecuritychampionship.com/lead
 | [Needle in a Haystack](https://nerdymark.com/vibe-coding-ctf-writeup) | OSINT / Web | Client-side auth bypass + exposed API secrets via GitHub OSINT |
 | [Breaking The Barriers](https://nerdymark.com/azure-ctf-writeup) | Azure / OAuth | Privesc via illicit admin consent + dynamic group membership + guest user invitation |
 
-#### 🎯 Wiz LevelUp
+#### 🎯 LevelUp CTF
 
 | Challenge | Category | Topic |
 |-----------|----------|-------|
