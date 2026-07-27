@@ -47,6 +47,14 @@ Most of what I build isn't on this page. A good number of my repositories are pr
 
 ---
 
+### 💼 A note for recruiters
+
+I'm quickly approaching a ten-year milestone at Apple. I'm not actively searching — but a window of opportunity is open right now, and it may close once I commit to another decade.
+
+If you have something genuinely interesting, now is the time to ask. [LinkedIn](https://www.linkedin.com/in/marklacore/) · [Bluesky](https://bsky.app/profile/nerdymark.com) · [full résumé](https://nerdymark.com/resume)
+
+---
+
 ### 🏴 CTF Writeups
 
 Challenges from [Wiz Research](https://www.wiz.io/research) · Full writeups → [nerdymark.com/category/ctf](https://nerdymark.com/category/ctf)
